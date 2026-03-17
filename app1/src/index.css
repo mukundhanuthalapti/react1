@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  padding:0px;
+  margin:0px;
+}
+.title{
+  color:black;
+  background-color: aqua;
+}
+#test{
+  background-color: olive;
+  color:white;
+}
+h1{
+  color:pink;
+}
